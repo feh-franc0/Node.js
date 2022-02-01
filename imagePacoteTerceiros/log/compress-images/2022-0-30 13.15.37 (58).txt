@@ -1,0 +1,8 @@
+File from: [./temp/output_resize.jpg]
+
+File to: [undefinedoutput_resize.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\ferna\Desktop\node\imagePacoteTerceiros\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile undefinedoutput_resize.jpg ./temp/output_resize.jpg
+C:\Users\ferna\Desktop\node\imagePacoteTerceiros\node_modules\mozjpeg\vendor\cjpeg.exe: can't open undefinedoutput_resize.jpg
